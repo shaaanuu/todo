@@ -1,0 +1,14 @@
+.Todo-section ul {
+  padding: 0;
+}
+.Todo-section ul li {
+  list-style: none;
+  text-align: start;
+  padding: 10px;
+  color: #6b7691;
+}
+.Todo-section {
+  background-color: #fefefe;
+  padding: 10px;
+  border-radius: 10px;
+}
